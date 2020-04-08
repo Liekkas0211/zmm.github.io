@@ -1,0 +1,25 @@
+.header{
+    height: 60px;
+    background-color: saddlebrown;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    /* text-align:center */
+    
+}
+.label1{
+   
+  font-size: 17px;
+  color: black;
+  top: 25px;
+  position: absolute;
+  right:100px;
+  font-weight: 600;
+}
+.label2{
+    position: absolute;
+    right: 10px;
+    font-size: 17px;
+    color: black;
+    top: 25px;
+    font-weight: 600;
+  }
